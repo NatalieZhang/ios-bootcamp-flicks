@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://github.com/NatalieZhang/ios-bootcamp-flicks/blob/master/ios-hw1-flicks.gif
+<img src='https://github.com/NatalieZhang/ios-bootcamp-flicks/blob/master/ios-hw1-flicks.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
